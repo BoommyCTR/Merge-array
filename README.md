@@ -36,6 +36,8 @@ And you good to go :)
 
 ## How to execute code
 
+- `npm i`
+
 - `npx tsc`
 
 - `node dist/main.js`
