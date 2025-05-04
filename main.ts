@@ -16,7 +16,7 @@ function sortedArrays(arr1: number[], arr2: number[]): number[] {
   return result.concat(arr1.slice(i)).concat(arr2.slice(j));
 }
 
-function merge(
+export function merge(
   array_1: number[],
   array_2: number[],
   array_3: number[]
